@@ -1,0 +1,206 @@
+ *{
+	margin: 0;
+	padding: 0;
+	background: #ffff;
+
+}
+
+/*---Navigation---*/
+#nav-bar{
+	  position: sticky;
+	  top: 0;
+	  z-index: 10;
+	  font-family: 
+}
+
+.navbar-brand{
+	padding-left: 20px;
+	font-family: 
+}
+
+.navbar-nav li{
+	padding: 0 10px;
+
+}
+
+.navbar-nav li a{
+	float: right; 
+	text-align: left;
+}
+
+#nav-bar ul li a:hover{
+	color: #ff9d00;
+}
+
+.nav-link li{
+	color: grey;
+}
+
+.navbar{
+	background: #ffff;
+}
+
+.navbar-toggler{
+	border: none;
+}
+
+.nav-link{
+	color: #fff;
+	font-weight: 600 ;
+	font-size: 16px;
+}
+
+.carousel-inner{
+	margin-right: 15px;
+	margin-left: 30px;
+}
+
+/*---About Button---*/
+#about{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: #000;
+}
+
+#about .btn{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.about-content{
+	padding-top: 20px;
+}
+
+.col-md-2 product pt-md-5 pt-4{
+	size: 50%;
+}
+
+ form input[type="submit"]:hover{
+ 	background-color: #ff9d00;  
+ }
+
+.imgman{
+	position: absolute;
+	left: 10%;
+	top: 230%;
+	border: 1px solid darkgray;
+	box-shadow: 1px 2px 4px;
+}
+
+h6{
+	color: black;
+	position: absolute;
+	left: 20%;
+	top: 25%
+	border: 1px solid whitesmoke;
+	width: 200px;
+	font-size: 40px;
+	font-family: sans-serif;
+	background-color: white;
+	font-weight: normal;
+	text-align: center;
+
+
+}
+
+.imgman:hover{
+	box-shadow: 1px 3px 9px;
+
+}
+
+.imgwoman{
+	position: absolute;
+	left: 40%;
+	top: 230%;
+	border: 1px solid darkgray;
+	box-shadow: 1px 2px 4px;
+}
+
+.imgwoman:hover{
+	box-shadow: 1px 3px 9px;
+
+}
+
+.imgacc{
+	position: absolute;
+	left: 70%;
+	top: 230%;
+	border: 1px solid darkgray;
+	box-shadow: 1px 2px 4px;
+}
+
+.imgacc:hover{
+	box-shadow: 1px 3px 9px;
+}
+
+.footer{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	background: #092532;
+	padding: 80px 0px;
+}
+
+.padding{
+	padding: 15%;
+	background: #fff;
+	margin-top: 30%;
+	width: 100%;
+
+}
+
+.padding ul{
+	position: absolute;
+	top: 290%;
+	left: 50%;
+	padding: 0;
+	margin: 0;
+	transform: translate(-50%, -50%);
+	display: flex;
+}
+
+.padding ul li{
+	list-style: none;
+	margin: 0 15px;
+}
+
+.padding ul li .fa{
+	font-size: 30px;
+	line-height: 60px;
+	transition: .6s;
+	color: #000; 
+}
+
+.padding ul li a{
+	position: relative;
+	display: block;
+	width: 60px;
+	height: 60px;
+	border-radius: 50px;
+	background-color: #fff;
+}
+
+.padding ul li a:hover{
+	 transform: translate(0, -10px);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
